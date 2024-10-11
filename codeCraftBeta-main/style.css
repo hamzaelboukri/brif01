@@ -241,7 +241,7 @@ p {
 }
 
 body{
-  background-image: url("gi.gif");
+  background-image:url("images/gi.gif") ;
   background-repeat: no-repeat;
   background-size :cover;
      width: 1300px;
